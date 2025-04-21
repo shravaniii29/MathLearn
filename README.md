@@ -11,6 +11,7 @@ Features:
 
 Tech Stack:
 - Frontend: HTML, CSS, JavaScript, React
+- Backend : Node.js, Express.js
 - Hosting: Firebase
 
  Future Plans:
